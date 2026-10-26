@@ -1,0 +1,18 @@
+# 构建产物
+bin/
+obj/
+publish/
+dist/
+
+# IDE
+.vs/
+*.user
+*.suo
+.vscode/
+
+# 运行期生成
+panel_layout.ini
+*.log
+
+# 调试符号
+*.pdb
